@@ -1,0 +1,6 @@
+[submodule "kmp"]
+	path = kmp
+	url = git@github.com:aditdit/sdui-kmp.git
+[submodule "cmp"]
+	path = cmp
+	url = git@github.com:aditdit/sdui-cmp.git
