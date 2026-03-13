@@ -1,6 +1,8 @@
 [submodule "kmp"]
 	path = kmp
 	url = git@github.com:aditdit/sdui-kmp.git
+	branch = main
 [submodule "cmp"]
 	path = cmp
 	url = git@github.com:aditdit/sdui-cmp.git
+	branch = main
